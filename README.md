@@ -4,7 +4,7 @@
 
 #### Ríona Greally - G00325504
 
-In this Problem Sheet we import the [IRIS.csv](https://github.com/mwaskom/seaborn-data/blob/master/iris.csv) dataset and create a model using [Keras](https://keras.io/). We then train and test this model and save it to a h5 file. 
+In this Problem Sheet we import the [IRIS.csv](https://github.com/mwaskom/seaborn-data/blob/master/iris.csv) dataset and create a model using [Keras](https://keras.io/). We then train and test this model and save it to a h5 file. The Solutions to this Problem sheet is done using [Jupyter Notebook](http://jupyter.org/)
 
 #### Keras
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.
@@ -34,3 +34,11 @@ Use the testing set to train your model.
 ### 4. Test the model
 
 Use the testing set to test your model, clearly calculating and displaying the error rate.
+
+#### References:
+* [IRIS.csv](https://github.com/mwaskom/seaborn-data/blob/master/iris.csv)
+* [Keras](https://keras.io/)
+* [Jupyter Notebook](http://jupyter.org/)
+* [Slicing](http://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/)
+* Adapted from https://github.com/emerging-technologies/keras-iris
+
